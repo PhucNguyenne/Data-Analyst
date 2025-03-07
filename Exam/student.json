@@ -1,0 +1,133 @@
+[{
+    "_id": 1,
+    "name": "Nguyễn Văn A",
+    "age": 20,
+    "gender": "Nam",
+    "major": "Computer Science",
+    "gpa": 3.5,
+    "enrollmentDate": "2021-09-01",
+    "courses": [
+      { "courseId": "CS101", "courseName": "Introduction to Programming", "credits": 3, "grade": "B+" },
+      { "courseId": "CS102", "courseName": "Data Structures", "credits": 4, "grade": "A-" }
+    ]
+  },
+  {
+    "_id": 2,
+    "name": "Trần Thị B",
+    "age": 22,
+    "gender": "Nữ",
+    "major": "Business Administration",
+    "gpa": 3.8,
+    "enrollmentDate": "2020-09-01",
+    "courses": [
+      { "courseId": "BA101", "courseName": "Principles of Management", "credits": 3, "grade": "A" },
+      { "courseId": "BA102", "courseName": "Marketing Basics", "credits": 3, "grade": "B" }
+    ]
+  },
+  {
+    "_id": 3,
+    "name": "Lê Văn C",
+    "age": 21,
+    "gender": "Nam",
+    "major": "Engineering",
+    "gpa": 3.2,
+    "enrollmentDate": "2022-01-15",
+    "courses": [
+      { "courseId": "ENG101", "courseName": "Mechanics", "credits": 3, "grade": "C+" },
+      { "courseId": "ENG102", "courseName": "Thermodynamics", "credits": 4, "grade": "B-" }
+    ]
+  },
+  {
+    "_id": 4,
+    "name": "Phạm Thị D",
+    "age": 19,
+    "gender": "Nữ",
+    "major": "Arts",
+    "gpa": 3.9,
+    "enrollmentDate": "2021-09-01",
+    "courses": [
+      { "courseId": "ART101", "courseName": "History of Art", "credits": 2, "grade": "A" },
+      { "courseId": "ART102", "courseName": "Modern Art", "credits": 3, "grade": "A-" }
+    ]
+  },
+  {
+    "_id": 5,
+    "name": "Hoàng Văn E",
+    "age": 23,
+    "gender": "Nam",
+    "major": "Mathematics",
+    "gpa": 3.7,
+    "enrollmentDate": "2019-09-01",
+    "courses": [
+      { "courseId": "MATH101", "courseName": "Calculus I", "credits": 4, "grade": "A" },
+      { "courseId": "MATH102", "courseName": "Linear Algebra", "credits": 3, "grade": "A-" },
+      { "courseId": "MATH103", "courseName": "Probability", "credits": 3, "grade": "B+" }
+    ]
+  },
+  {
+    "_id": 6,
+    "name": "Ngô Thị F",
+    "age": 20,
+    "gender": "Nữ",
+    "major": "Biology",
+    "gpa": 3.4,
+    "enrollmentDate": "2021-09-01",
+    "courses": [
+      { "courseId": "BIO101", "courseName": "General Biology", "credits": 3, "grade": "B" },
+      { "courseId": "BIO102", "courseName": "Genetics", "credits": 3, "grade": "B+" }
+    ]
+  },
+  {
+    "_id": 7,
+    "name": "Vũ Văn G",
+    "age": 24,
+    "gender": "Nam",
+    "major": "Chemistry",
+    "gpa": 3.0,
+    "enrollmentDate": "2018-09-01",
+    "courses": [
+      { "courseId": "CHEM101", "courseName": "Organic Chemistry", "credits": 4, "grade": "C" },
+      { "courseId": "CHEM102", "courseName": "Inorganic Chemistry", "credits": 3, "grade": "B-" }
+    ]
+  },
+  {
+    "_id": 8,
+    "name": "Bùi Thị H",
+    "age": 22,
+    "gender": "Nữ",
+    "major": "Economics",
+    "gpa": 3.6,
+    "enrollmentDate": "2020-09-01",
+    "courses": [
+      { "courseId": "ECON101", "courseName": "Microeconomics", "credits": 3, "grade": "A-" },
+      { "courseId": "ECON102", "courseName": "Macroeconomics", "credits": 3, "grade": "B+" }
+    ]
+  },
+  {
+    "_id": 9,
+    "name": "Đặng Văn I",
+    "age": 21,
+    "gender": "Nam",
+    "major": "Physics",
+    "gpa": 3.3,
+    "enrollmentDate": "2021-09-01",
+    "courses": [
+      { "courseId": "PHY101", "courseName": "Mechanics", "credits": 3, "grade": "B+" },
+      { "courseId": "PHY102", "courseName": "Electromagnetism", "credits": 4, "grade": "B" }
+    ]
+  },
+  {
+    "_id": 10,
+    "name": "Trần Văn J",
+    "age": 22,
+    "gender": "Nam",
+    "major": "Computer Science",
+    "gpa": 3.9,
+    "enrollmentDate": "2019-09-01",
+    "courses": [
+      { "courseId": "CS101", "courseName": "Introduction to Programming", "credits": 3, "grade": "A" },
+      { "courseId": "CS103", "courseName": "Algorithms", "credits": 4, "grade": "A-" },
+      { "courseId": "CS104", "courseName": "Operating Systems", "credits": 4, "grade": "B+" }
+    ]
+  }
+]
